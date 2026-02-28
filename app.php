@@ -63,7 +63,7 @@ if (isset($_SESSION['X-H0UR'])) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Terminal | Mr.Q Authorization</title>
+    <title>Terminal | Tn_Wizyakuza404 Authorization</title>
     <style>
         body {
             background-color: #050505;
@@ -108,7 +108,7 @@ if (isset($_SESSION['X-H0UR'])) {
             filter: drop-shadow(0 0 8px #00ff00);
         }
 
-        /* Animasi Tulisan Mr.Q */
+        /* Animasi Tulisan Tn_Wizyakuza404 */
         .mr-q-text {
             font-size: 24px;
             font-weight: bold;
